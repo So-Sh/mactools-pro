@@ -9,17 +9,6 @@ Our goal is to provide a comprehensive, curated list of high-quality application
 
 ## 🚀 List of Apps
 
-- **Superwhisper**  
-  *Write 3x faster, without lifting a finger.*
-  
-- **HoldSpeak**  
-  *Speak to type in any app, enabling faster and more efficient input.*
-  
-- **Stretch It**  
-  *A simple, drag-and-drop timer for Mac, great for productivity and time management.*
-
----
-
 ### Productivity & Note-Taking
 - **SwiftShift**  
   *Sweet window manager for Mac, making multitasking easier.*
@@ -50,6 +39,12 @@ Our goal is to provide a comprehensive, curated list of high-quality application
 
 - **Workspaces**  
   *Project-based launcher to open files, folders, websites, and apps together.* (Freemium)
+
+  - **Superwhisper**  
+  *Write 3x faster, without lifting a finger.*
+  
+- **HoldSpeak**  
+  *Speak to type in any app, enabling faster and more efficient input.*
 
 ---
 
@@ -140,6 +135,9 @@ Our goal is to provide a comprehensive, curated list of high-quality application
 
 - **OnlySwitch**  
   *Centralize powerful system switches in one location for convenience.* (Free)
+      
+- **Stretch It**  
+  *A simple, drag-and-drop timer for Mac, great for productivity and time management.*
 
 ---
 
@@ -166,9 +164,6 @@ Visit the website to explore the full list and read detailed descriptions of eac
 - **Name**
 - **Description**
 - **Pricing Model** (Free, Paid, Freemium)
-
-## 🤝 Contributing
-If you have suggestions for new apps or improvements, feel free to submit a pull request or open an issue.
 
 ## 🛠 Tech Stack
 This website is built using:
