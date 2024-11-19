@@ -171,4 +171,4 @@ This website is built using:
 
 ---
 
-Explore the full list and find your next must-have Mac application at **[Best Mac Apps and Tools]([https://www.mactools.pro/))**.
+Explore the full list and find your next must-have Mac application at **[Best Mac Apps and Tools]([https://www.mactools.pro/)**.
