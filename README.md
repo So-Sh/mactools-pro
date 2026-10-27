@@ -106,6 +106,9 @@ Our goal is to provide a comprehensive, curated list of high-quality application
 ---
 
 ### Window & System Management
+- **Command Reopen**  
+  *Makes Cmd+Tab restore minimized and closed windows with zero permissions.* (Paid, 2-day trial / MIT) — https://commandreopen.com/
+
 - **Rectangle**  
   *Easily move and resize windows using keyboard shortcuts or snapping.* (Free)
 
