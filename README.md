@@ -109,6 +109,9 @@ Our goal is to provide a comprehensive, curated list of high-quality application
 - **Rectangle**  
   *Easily move and resize windows using keyboard shortcuts or snapping.* (Free)
 
+- **LayoutKeeper**  
+  *Restores window layouts and Spaces after you unplug and reconnect an external display; USB-C arrangement presets and ambient brightness follow in v0.6.14.* (Free / Open Source)
+
 - **Wins**  
   *Bring system-level window arrangement features to your Mac.* (Freemium)
 
